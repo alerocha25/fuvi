@@ -2,7 +2,7 @@
 Nombre del archivo : sumanumeros.cpp
 Autor : Daniel Gutierrez
 lugar : ITV
-instrucciones : Manipuladores
+instrucciones : Ejemplos de manipulacion de E/S
 */
 
 

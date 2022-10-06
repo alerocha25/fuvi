@@ -45,10 +45,16 @@ int main(){
 	cout << " Monto por sindicato = C$ " << montoSindicato << endl;
 	cout << " Monto por INSS = C$ " << montoINSS << endl;
 	cout << " Monto por IR = C$ " << montoIR << endl;
+	cout << " Monto deducciones totales = C$ " << deduccionesTotales << endl;
 	cout << "*****Ingreso total neto*****" << endl;
 	cout << "Ingreso neto = C$ " << ingresoNeto << endl;
 	cout << "*****Deducciones del empleador*****" << endl;
 	cout << "INSS PATRONAL = C$ " << montoINSSpatronal << endl;
 
 	return 0;
+	
+	
+	
+	cout << left;
+	cout <<sewt(20) << "Ingresos totales" << setw(10) << "$" <<
 }
